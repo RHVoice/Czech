@@ -32,7 +32,8 @@ abst(i=y)*
 absurd(i=y)*
 acet(i=y)n*
 acid(i=y)t*
-ad(i=y)abat(i=y)c*
+ad(i=y)*
+abat(i=y)c*
 ad(i=y)c*
 ad(i=y)č*
 ad(i=y)kto*
@@ -1328,6 +1329,7 @@ telepat(i=y)c*
 telepat(i=y)e*
 *temat(i=y)*
 ten(i=y)s*
+teokrat(i=y)*
 teoret(i=y)*
 text(i=y)*
 témat(i=y)*
